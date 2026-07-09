@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1af4f20567ca8448a542c66d16a216, type: 3}
+  m_Name: 2107_Lada_RL_Door
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "Bal H\xE1ts\xF3 Ajt\xF3"
+  icon: {fileID: 21300000, guid: e5dfb242f2a5ae04cba95ea5eedfe32d, type: 3}
+  dropPrefab: {fileID: 3004690319194146279, guid: aea47cb8d3701e8448e77819980e074d, type: 3}
+  maxStack: 1

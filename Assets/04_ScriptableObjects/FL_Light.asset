@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1af4f20567ca8448a542c66d16a216, type: 3}
+  m_Name: FL_Light
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "Jobb_Els\u0151_L\xE1mpa"
+  icon: {fileID: 21300000, guid: 69c1f8846fef3764d86cdbbacc8d4632, type: 3}
+  dropPrefab: {fileID: 5770224193552793389, guid: 80cb67d0ab56d9840aed17e688cb0a83, type: 3}
+  maxStack: 1
