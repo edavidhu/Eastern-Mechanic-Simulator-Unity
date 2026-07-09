@@ -6,7 +6,7 @@
 > **WORK IN PROGRESS (Fejlesztés alatt)**
 > Ez a projekt jelenleg is aktív fejlesztés alatt áll. A repository a jelenlegi kódbázist és a mechanikák állapotát tükrözi.
 
-## 🇭У Magyar leírás
+## 🇭u Magyar leírás
 Egy komplex, objektumorientált (OOP) alapokon nyugvó autószerelő szimulációs játékprojekt, Unity 3D játékmotorban (C#) fejlesztve. 
 
 ###  Kiemelt fejlesztési mechanikák:
