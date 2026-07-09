@@ -2,8 +2,9 @@
 
 #  Eastern Mechanic Simulator - 3D Car Mechanic Simulator (Unity)
 
->**WORK IN PROGRESS (Fejlesztés alatt)**
-> *Ez a projekt jelenleg is aktív fejlesztés alatt áll. A repository a jelenlegi kódbázist és a mechanikák állapotát tükrözi.*
+> [!CAUTION]
+> **WORK IN PROGRESS (Fejlesztés alatt)**
+> Ez a projekt jelenleg is aktív fejlesztés alatt áll. A repository a jelenlegi kódbázist és a mechanikák állapotát tükrözi.
 
 ## 🇭У Magyar leírás
 Egy komplex, objektumorientált (OOP) alapokon nyugvó autószerelő szimulációs játékprojekt, Unity 3D játékmotorban (C#) fejlesztve. 
