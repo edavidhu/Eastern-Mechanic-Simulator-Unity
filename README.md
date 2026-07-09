@@ -1,6 +1,6 @@
 # Eastern-Mechanic-Simulator-Unity
 
-# 🚗 Eastern Mechanic - 3D Car Mechanic Simulator (Unity)
+#  Eastern Mechanic Simulator - 3D Car Mechanic Simulator (Unity)
 
 >**WORK IN PROGRESS (Fejlesztés alatt)**
 > *Ez a projekt jelenleg is aktív fejlesztés alatt áll. A repository a jelenlegi kódbázist és a mechanikák állapotát tükrözi.*
